@@ -1,0 +1,11 @@
+{
+  "version": "1",
+  "rules": [
+  ],
+  "notFound": {
+    "destination": "/404/index.html",
+    "status": 404,
+    "htmlOnly": true,
+    "enabled": true
+  }
+}
